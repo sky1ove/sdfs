@@ -6,4 +6,6 @@ d = { 'settings': { 'branch': 'master',
                 'git_url': 'https://github.com/sky1ove/sdfs',
                 'lib_path': 'sdfs'},
   'syms': { 'sdfs.core': { 'sdfs.core.foo': ( 'https://sky1ove.github.io/core.html#foo',
-                                              'https://github.com/sky1ove/sdfs/blob/master/sdfs/core.py#L7')}}}
+                                              'https://github.com/sky1ove/sdfs/blob/master/sdfs/core.py#L7'),
+                           'sdfs.core.say_hello': ( 'https://sky1ove.github.io/core.html#say_hello',
+                                                    'https://github.com/sky1ove/sdfs/blob/master/sdfs/core.py#L10')}}}
